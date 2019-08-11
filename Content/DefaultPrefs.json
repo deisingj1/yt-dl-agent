@@ -1,0 +1,5 @@
+[
+  { "id":"option1",          "label":"label1",  "type":"bool", "default":"false"                                     },
+  { "id":"option2",           "label":"optionlabel 2",                                   "type":"enum", "default":"def1", "values": ["Val1", "Val2"] },
+  { "id":"option3", "label":"optionlabel3",  "type":"text", "default":"def"   }
+]
